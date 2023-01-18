@@ -4,6 +4,8 @@
     // 'Blender',
     // 'Figma',
     'Javascript',
+    'Node JS',
+    'MongoDB',
     'CSS',
     'React',
     'Bootstrap',

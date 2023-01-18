@@ -11,6 +11,15 @@ import eight from '../assets/svg/projects/eight.svg'
 export const projectsData = [
     {
         id: 1,
+        projectName: 'Koo-App',
+        projectDesc: 'This project involves the development of an React application for viewing different users posts and perform various operations.',
+        tags: ['React','Redux','Context-Api','Chakra-Ui','Javascript','Html','Css'],
+        code: 'https://github.com/samrat124/Koo-AppClone',
+        demo: 'https://koo-app-1.netlify.app/',
+        image: four
+    },
+    {
+        id: 2,
         projectName: 'DominoS Clone',
         projectDesc: 'This project aims to build an  online food and Restaurant management system that consolidates all information of a company',
         tags: ['React', 'CSS', 'Material Ui','Chakra Ui','React-BootStrap'],
@@ -19,7 +28,7 @@ export const projectsData = [
         image: one
     },
     {
-        id: 2,
+        id: 3,
         projectName: 'BlissClub Clone',
         projectDesc: 'This project is a E-Commerce system that allows users to obtain relevant information and order online.',
         tags: ['Html','CSS','Java-Script','BootStrap'],
@@ -28,7 +37,7 @@ export const projectsData = [
         image: two
     },
     {
-        id: 3,
+        id: 4,
         projectName: 'PharmEasy Clone',
         projectDesc: ' This Project is a E-Commerce system of medicines that allows user to provide medicine at door-step.',
         tags: ['Html','CSS','Java-Script','BootStrap'],
@@ -36,15 +45,7 @@ export const projectsData = [
         demo: 'https://pharmeasyclone2022.netlify.app/',
         image: three
     },
-    // {
-    //     id: 4,
-    //     projectName: 'Android Patient Tracker',
-    //     projectDesc: 'This project involves the development of an Android application for viewing and managing patient data.',
-    //     tags: ['Flutter', 'Firebase'],
-    //     code: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     demo: 'https://github.com/hhhrrrttt222111/developer-portfolio',
-    //     image: four
-    // },
+     
     // {
     //     id: 5,
     //     projectName: 'E-Commerce App',
