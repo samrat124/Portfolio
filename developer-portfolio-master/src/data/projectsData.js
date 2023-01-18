@@ -33,7 +33,7 @@ export const projectsData = [
         projectDesc: 'This project is a E-Commerce system that allows users to obtain relevant information and order online.',
         tags: ['Html','CSS','Java-Script','BootStrap'],
         code: 'https://github.com/PankuMehra/BlissClub-Clone',
-        demo: 'https://dainty-brigadeiros-8eb98a.netlify.app/',
+        demo: 'https://blissclub-replica.netlify.app/',
         image: two
     },
     {
